@@ -2,7 +2,7 @@
 ![ABOR Database](arbortm-demo-img.jpg)
 
 ## Live Demo
-Click for the [Live Demo](http://onegreatapp.com/arbortm/public)
+Click for the [Live Demo](http://onegreatapp.com/arbor-db/public)
 <br>
 Username: demo<br>
 Password: password
