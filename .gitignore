@@ -1,5 +1,2 @@
-# htaccess file
-.htaccess
-
 # db_credentials file
 /private/db_credentials.php

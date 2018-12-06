@@ -1,0 +1,3 @@
+RedirectMatch ^/arbor-db/?$ /arbor-db/public/
+RedirectMatch ^/arbor-db/private/?$ /arbor-db/public/
+RedirectMatch ^/arbor-db/private/shared/?$ /arbor-db/public/
